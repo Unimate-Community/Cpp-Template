@@ -70,7 +70,10 @@ collaboration.
 
 12. **Wait for any Comments or Reviews** – Try to respond quickly!
 
-13. **Update Your Fork**  – Execute the following commands.
+13. **Create a Pull Request**  – Replace the url with the one git gives you and visit
+    [the url](https://github.com/Ahmed-Madeh-Noah/Cpp-Template/pull/new/CONTRIBUTING.md).
+
+14. **Update Your Fork**  – Execute the following commands.
    ```sh
     git checkout main
     git pull upstream main
